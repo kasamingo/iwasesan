@@ -1,7 +1,7 @@
-<header class="header" id="header"><a class="header_asahi opa" href=""><img class="w100"
-      src="/project/assets/img/logo-mom.png" alt="〇〇会社デジタル" /></a>
-  <div class="nav-wrapper">
-    <nav>
+
+<header class="header" id="header"><a class="header_asahi opa" href=""><img class="w100" src="assets/img/logo-mom.png" alt="〇〇会社デジタル"/></a>
+  <div class="nav-wrapper"> 
+    <nav> 
       <ul class="navi-right">
         <li><a class="scroller" href="#news">NEWS</a></li>
         <li><a class="scroller" href="#mission">MISSION</a></li>
